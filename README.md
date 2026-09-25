@@ -1,0 +1,2 @@
+# line-for-oldmobile
+これは古いAndroid端末にLINEトークをFireFoxアドオンで実現させるプロジェクトです。
